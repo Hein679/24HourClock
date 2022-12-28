@@ -1,0 +1,1 @@
+24 hour format clock interface, one cycle represents a full day, unlike 12 hour * 2 (AM & PM). This is meant to increase my sense of importance for time and start doing something instead of procrastinating.
